@@ -16,17 +16,17 @@
                         "children":
                         [
                             {
-                                "command": "open_file", 
-                                "args": {"file": "${packages}/Alignment/Base File.sublime-settings"},
+                                "command": "open_file",
+                                "args": {"file": "${packages}/Alignment/Preferences.sublime-settings"},
                                 "caption": "Settings – Default"
                             },
                             {
-                                "command": "open_file", 
-                                "args": {"file": "${packages}/User/Base File.sublime-settings"},
+                                "command": "open_file",
+                                "args": {"file": "${packages}/User/Preferences.sublime-settings"},
                                 "caption": "Settings – User"
                             },
                             {
-                                "command": "open_file_settings", 
+                                "command": "open_file_settings",
                                 "caption": "Settings – Syntax Specific – User"
                             },
                             {
